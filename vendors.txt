@@ -1,0 +1,4 @@
+"This a file of vendors"
+The vendors list needs to be validated. 
+Rodgers Muyuya | 094 567 8901
+Zoe Muyuya | 093 567 8901
